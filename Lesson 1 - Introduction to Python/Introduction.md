@@ -13,6 +13,7 @@ Before you head forward, it is important to note that there are two major Python
 *   Free & open source
 *   High-level
 *   Interpreted
+*   Code Readability
 *   Large Community Support
 *   And many other reasons you will discover yourself while learning it. 
 
