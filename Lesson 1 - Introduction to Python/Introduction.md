@@ -14,6 +14,7 @@ Before you head forward, it is important to note that there are two major Python
 *   High-level
 *   Interpreted
 *   Code Readability
+*   Dynamic in nature
 *   Large Community Support
 *   And many other reasons you will discover yourself while learning it. 
 
