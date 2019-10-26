@@ -51,6 +51,9 @@ def my_function():
 
 my_function()
 ```
+## Importance of using Functions 
+    . reusability
+    . abstraction
 
 
 
